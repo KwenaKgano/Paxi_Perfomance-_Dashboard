@@ -1,0 +1,15 @@
+This project focuses on automating Paxi performance reporting using Power BI. The dashboard tracks key KPIs such as AHT, CSAT, rejected calls, and missed calls.
+
+Purpose:
+To provide real-time visibility of agent performance, support quick coaching, and identify underperforming agents based on KPIs.
+
+Tools Used:
+
+* Power BI
+* Excel
+
+Key Features:
+
+* Automated KPI tracking
+* Agent-level performance breakdown
+* Coaching insights for performance improvement
